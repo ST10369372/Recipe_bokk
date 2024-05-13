@@ -38,3 +38,5 @@ This C# code is a console application for managing recipes. Let's go through the
 ### How it Runs:
 
 When you run the program, it displays a menu. You can choose to add a recipe, display all recipes, display a specific recipe, or exit the program. If you choose to add a recipe, it guides you through providing information about the recipe, such as ingredients and steps. After adding a recipe, it calculates and displays its total calories and warns if it exceeds 300 calories. You can then continue to interact with the program by selecting options from the menu until you choose to exit.
+
+https://github.com/ST10369372/Recipe_bokk.git
